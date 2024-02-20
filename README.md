@@ -1,1 +1,2 @@
 # youtube-adview-predictor
+The YouTube Adview Predictor project utilizes machine learning to forecast the number of ad views on YouTube videos. By analyzing various features such as video length, category, upload date, and engagement metrics, the model predicts ad views accurately. Through data preprocessing, feature engineering, and training the machine learning model, users can input video attributes to generate predictions. This project serves as a valuable tool for content creators and marketers to optimize ad campaigns and maximize viewership on YouTube.
